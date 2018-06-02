@@ -3,7 +3,7 @@ PTBR: Ferramenta para comunicação em rede, modelo client-server utilizando Soc
 Multi-Client Server chat application using java swing.
  #####
  
-\n\n Este tópico será editado futuramente.
+Este tópico será editado futuramente.
  
  
  Screenshots
