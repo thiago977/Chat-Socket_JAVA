@@ -1,9 +1,22 @@
 # Chat-Socket_JAVA
-PTBR: Ferramenta para comunicação em rede, modelo client-server utilizando Sockets e mais. 
-Multi-Client Server chat application using java swing.
+Simples chat para comunicação em rede usando sockets, com algumas features:
+
+## Servidor: 
+-Servidor estável;
+-Permite múltiplos usuários;
+-Capacidade de poder alterar ou remover usuários;
+-Armazenar informações dos usuários.
+
+## Cliente:
+-Capacidade de poder alterar informações, como senha etc.;
+-Chat com múltiplos usuários;
+-Transferência de arquivos;
+-Chamada de voz em tempo real;
+-Correio de voz.
+
  #####
  
- Screenshots
+ Screenshots:
  
 ![01](https://user-images.githubusercontent.com/39541339/40868170-c57efdf6-65e0-11e8-8050-b49cd7b24898.png)
 
