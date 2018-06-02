@@ -3,9 +3,6 @@ PTBR: Ferramenta para comunicação em rede, modelo client-server utilizando Soc
 Multi-Client Server chat application using java swing.
  #####
  
-Este tópico será editado futuramente.
- 
- 
  Screenshots
  
 ![01](https://user-images.githubusercontent.com/39541339/40868170-c57efdf6-65e0-11e8-8050-b49cd7b24898.png)
@@ -44,3 +41,8 @@ Este tópico será editado futuramente.
 
 ![last02](https://user-images.githubusercontent.com/39541339/40868245-61c5e4cc-65e1-11e8-891a-5ec69f3ec1e5.png)
 
+# **Como instalar / How to install:** 
+São 3 projetos, estes projetos devem ser adicionados individualmente no Eclipse ou NetBeans.
+ 1. Client
+ 2. Server
+ 3. Shared
