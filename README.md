@@ -34,7 +34,7 @@ PTBR: Ferramenta para comunicação em rede, modelo client-server utilizando Soc
 
 ![15](https://user-images.githubusercontent.com/39541339/40868243-617c0d70-65e1-11e8-8054-f80a61fb5567.png)
 
-![16](https://user-images.githubusercontent.com/39541339/40868244-61a06b20-65e1-11e8-9d43-8858eabf9900.png)
+
 
 ![last02](https://user-images.githubusercontent.com/39541339/40868245-61c5e4cc-65e1-11e8-891a-5ec69f3ec1e5.png)
 
