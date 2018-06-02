@@ -6,6 +6,7 @@ Simples chat para comunicação em rede usando sockets, com algumas features:
 -Permite múltiplos usuários;
 -Capacidade de poder alterar ou remover usuários;
 -Armazenar informações dos usuários.
+-Armazena as senhas em passhash
 
 ## Cliente:
 -Capacidade de poder alterar informações, como senha etc.;
